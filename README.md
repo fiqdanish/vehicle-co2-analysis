@@ -152,4 +152,3 @@ Cars are one of the largest contributors to CO2 emissions. This project takes a 
 - **Highest-emitting makers** included luxury and performance brands such as Aston Martin, Bentley, Maserati, and Porsche.
 - **Lowest-emitting makers** were dominated by Toyota, Honda, Mitsubishi, and Mazda.
 - K-Means clustering cleanly separated cars into low, medium, and high emission tiers.
-```
