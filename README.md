@@ -153,5 +153,3 @@ Cars are one of the largest contributors to CO2 emissions. This project takes a 
 - **Lowest-emitting makers** were dominated by Toyota, Honda, Mitsubishi, and Mazda.
 - K-Means clustering cleanly separated cars into low, medium, and high emission tiers.
 ```
-
-Want me to tweak anything — for example, add a license section, screenshots/charts placeholders, or adjust the file names to match exactly what you'll commit?
